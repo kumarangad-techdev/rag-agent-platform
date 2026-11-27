@@ -1,0 +1,14 @@
+.git
+.github
+.venv
+.ragdata
+.env
+**/__pycache__
+**/.pytest_cache
+**/.ruff_cache
+frontend/node_modules
+frontend/dist
+frontend/*.tsbuildinfo
+dist
+build
+*.egg-info

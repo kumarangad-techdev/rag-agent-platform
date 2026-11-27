@@ -1,0 +1,19 @@
+Orbit Smart Lamp - Frequently Asked Questions (fictional sample product)
+
+How do I pair the Orbit lamp with my phone?
+Install the Orbit Home app, switch the lamp on, and hold the touch ring for 5 seconds until the light pulses blue. Then tap "Add device" in the app. Pairing uses Bluetooth first and then moves the lamp to your 2.4 GHz Wi-Fi network. 5 GHz networks are not supported.
+
+What is the battery life?
+The Orbit lamp has a 4,000 mAh battery. At 50% brightness it lasts about 18 hours; at full brightness it lasts about 7 hours. A full charge over USB-C takes roughly 3 hours with a 10 W adapter.
+
+How do I reset the lamp?
+Hold the touch ring for 15 seconds until the light flashes red three times. This removes the Wi-Fi settings and unlinks the lamp from your account.
+
+What is the warranty?
+The Orbit lamp has a 2-year limited warranty covering manufacturing defects. The battery is covered for 1 year. Water damage and physical damage are not covered.
+
+Can I return the lamp?
+Unused lamps in original packaging can be returned within 30 days of delivery for a full refund. Opened lamps can be returned within 14 days, minus a 10% restocking fee.
+
+Does the lamp work with voice assistants?
+Yes. The lamp supports Google Assistant and Amazon Alexa through the Orbit Home skill. Apple HomeKit is not supported in the current firmware (version 2.3).

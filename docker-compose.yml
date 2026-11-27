@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000" # loopback only: this app has no authentication
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - ragdata:/data # ChromaDB, sample SQLite database and the Hugging Face model cache
+
+volumes:
+  ragdata:
